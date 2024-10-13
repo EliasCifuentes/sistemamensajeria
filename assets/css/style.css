@@ -59,6 +59,16 @@
     color: rgb(201, 201, 201);
 }
 
+/* Acciones */
+
+.accion {
+    width: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+
 /* Nuevo Chat */
 
 .nuevo {
